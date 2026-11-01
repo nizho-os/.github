@@ -6,4 +6,4 @@ A desktop Linux where privacy settings are on by default, built on an immutable 
 
 - [nizho](https://github.com/nizho-os/nizho): the operating system image and its source.
 
-Nizho was previously called ArkaOS.
+Nizho was previously called ArkaOS, created by Thulasiram K ([thulasiramk-2310](https://github.com/thulasiramk-2310/Arka)). It is not related to other software called ArKaos or to Arka Linux.
