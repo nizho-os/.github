@@ -14,4 +14,4 @@ Nizho is a desktop Linux operating system where privacy settings are on by defau
 - Website and documentation: https://nizho-os.github.io/nizho/
 - Source code: https://github.com/nizho-os/nizho
 
-Nizho was previously called ArkaOS, created by Thulasiram K ([thulasiramk-2310](https://github.com/thulasiramk-2310)). It is not related to other software called ArKaos or to Arka Linux.
+Nizho was previously called ArkaOS, created by Thulasiram K ([thulasiramk-2310](https://github.com/thulasiramk-2310)).
